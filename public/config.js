@@ -16,7 +16,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur556200-e3c41887724194b97f921ced',
+    'm780075611-5b5f1f782c5ad343835d2c05',
   ],
 
   // 是否显示监测站点的链接
