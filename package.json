@@ -33,5 +33,5 @@
   "devDependencies": {
     "react-app-rewired": "^2.1.8"
   },
-  "homepage": "./pubilc/"
+  "homepage": "./"
 }
